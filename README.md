@@ -42,45 +42,39 @@ I’m committed to continuous learning and enjoy working on a variety of project
 
 ## 📈 Highlighted Projects
 
-### 1. Titanic Dataset Analysis
-
-- **Overview:** Conducted exploratory data analysis (EDA) and built predictive models to determine survival likelihood.
-- **Skills:** Data Cleaning, Feature Engineering, Model Building
-- **Tools Used:** Python, Pandas, Scikit-learn
-
-### 2. Car Features and MSRP Analysis
+### 1. Car Features and MSRP Analysis
 
 - **Overview:** Investigated car features to analyze their impact on pricing and predict manufacturer’s suggested retail price (MSRP).
 - **Skills:** Data Exploration, Correlation Analysis, Regression Modeling
 - **Tools Used:** Python, Pandas, Matplotlib
 
-### 3. Credit Scoring Model Development
+### 2. Credit Scoring Model Development
 
 - **Overview:** Developed a model to predict the probability of financial distress for borrowers using credit history data.
 - **Skills:** Data Preprocessing, Machine Learning, Model Evaluation
 - **Tools Used:** Python, Scikit-learn, Pandas
 
-### 4. Diabetes Dataset Analysis
+### 3. Diabetes Dataset Analysis
 
 - **Overview:** Analyzed healthcare data to identify patterns and trends related to diabetes diagnosis and risk factors.
 - **Skills:** Data Cleaning, Statistical Analysis, Machine Learning
 - **Tools Used:** Python, Pandas, Seaborn, Scikit-learn
 
-### 5. Innoflo Operational Data Project
+### 4. Innoflo Operational Data Project
 
 - **Overview:** Developed predictive models to analyze how weather conditions impact substations, helping optimize maintenance schedules and operations.
 - **Skills:** Data Analysis, Statistical Analysis, Machine Learning, Predictive Modeling
 - **Tools Used:** Python, Pandas, Scikit-learn, Looker Studio
 - **Outcome:** Enhanced predictive maintenance scheduling, reducing operational costs and improving efficiency.
 
-### 6. Hydrogen Vehicle Game
+### 5. Hydrogen Vehicle Game
 
 - **Overview:** Collaborated with Edmonton Global on an educational car game to promote the 5000 Vehicle Challenge, raising awareness about sustainable hydrogen-powered vehicles.
 - **Skills:** Game Development, Python, Collaboration
 - **Tools Used:** Python, Pygame
 - **Outcome:** Created an engaging and interactive game that educated players on sustainability while having fun!
 
-### 7. Air Contaminant Trend Prediction (NPRI Dataset)
+### 6. Air Contaminant Trend Prediction (NPRI Dataset)
 
 - **Overview:** Currently working on predicting the trends of air contaminants (Sulphur Dioxide, Carbon Monoxide, Volatile Organic Matter, Nitrogen Oxides) for the next five years.
 - **Skills:** Data Analysis, Forecasting, Environmental Data Science
